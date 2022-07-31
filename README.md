@@ -9,7 +9,7 @@ Sign Language is a non-verbal and visual language that is widely used all over t
   - The 'api' branch contains the source code for the NodeJs based API of the system (hosted on Heroku). 
 - To run the client locally:
   - Clone the repo.
-    > git clone https://github.com/spectre900/Sign-Kit-An-Avatar-based-ISL-Toolkit.git
+    > git clone https://github.com/aprameya2001/Sign-Kit-An-Avatar-based-ISL-Toolkit.git
   - Checkout into the 'main' branch.
     > git checkout main
   - Enter the 'client' folder.
